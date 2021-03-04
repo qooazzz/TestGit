@@ -4,6 +4,6 @@ public class happy
 {
   public static void main(String[] args)
 {
-	System.out.println("test..111");
+	System.out.println("left..");
 }
 }
